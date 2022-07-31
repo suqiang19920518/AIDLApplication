@@ -1,0 +1,3 @@
+include ':app_server'
+include ':app_client'
+rootProject.name = "app_client"
